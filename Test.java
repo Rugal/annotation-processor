@@ -1,0 +1,3 @@
+@RugalAnnotation
+public class Test { }
+
